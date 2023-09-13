@@ -14,7 +14,9 @@ To follow along, ensure that you have a:
 
 2. [Vonage Developer account](https://ui.idp.vonage.com/ui/auth/registration) for using Vonage AI Studio.
 
-Once you have created an account, click on **API Dashboard** at the top of the page. Next, under **Quick Links** on the left hand side, click **Billing** > **Coupons**. Enter the coupon code found on the Vonage Cheatsheet Handout at the Mini-Hack for €5 of free credit and hit the **Submit** button.
+Once you have created an account, click on **API Dashboard** at the [top of the page](https://dashboard.nexmo.com/). Next, under **Quick Links** on the left hand side, click **Billing** > **Coupons**. Enter the coupon code found on the Mini-Hack site for €5 of free credit. You'll also need to add your address and once all is complete hit the **Submit** button.
+
+Scroll down the page and you'll see **Build and Manage**, then select **API Settings**. Look for **SMS Settings** on the right hand side and ensure that the **Messages API** is selected. Scroll to the bottom to **Save** your changes. 
 
 ## Introduction
 Customer satisfaction is vital to the success of your company. When customers love your product, they'll naturally spread the word to friends and family. As a result, your company will bring in new users who often prove to be more loyal than those acquired through marketing campaigns.
