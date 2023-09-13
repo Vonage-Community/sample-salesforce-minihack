@@ -250,6 +250,8 @@ In the **Salesforce Authentication** node, you need to provide the five values b
 
 To test the **Salesforce Authentication** node, click **Test request** on the top right of the Salesforce Authentication node. You should see a 200 successful status code with the Salesforce access token in the response body of the test request. 
 
+> If your connection was unsuccessful, or if you saw **Bad Request** when trying to authenticate. Copy the URL of your current tab to your clipboard and reopen it in another tab.  
+
 ![Successfully connected](./Images/successful-auth-sf.png "Successfully connected")
 
 **Note**: You should put your Salesforce username into the "User name" field, not the email. Your Salesforce username could be different from your email instead.
