@@ -18,6 +18,9 @@ Once you have created an account, click on **API Dashboard** at the [top of the 
 
 Scroll down the page and you'll see **Build and Manage**, then select **API Settings**. Look for **SMS Settings** on the right hand side and ensure that the **Messages API** is selected. Scroll to the bottom to **Save** your changes. 
 
+![SMS Settings](./Images/sms-settings.png "SMS Settings")
+
+
 ## Introduction
 Customer satisfaction is vital to the success of your company. When customers love your product, they'll naturally spread the word to friends and family. As a result, your company will bring in new users who often prove to be more loyal than those acquired through marketing campaigns.
 
